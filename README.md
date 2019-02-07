@@ -9,8 +9,8 @@ Librarian Functionality was added which can do the following
 3) Librarian also can update the number of Copies of each book associated with the LibraryBranch.
 
 Borrower Functionality was added which can do the following
-fo
-1) Borrower enters there card number and if the card number is not in the database I tell the user please try again since incorrect number added
+
+1) Borrower enters there card number and if the card number is not in the database the user is let known please try again since incorrect number added
 2) The Borrower has the option of checking out a book or returning a book
 3) The list of Library Branches is printed on the screen and the user chooses which one they are associated with if correct branch chosen since not in database told the user to enter again
 4) Then the list of Books was printed on the screen based on the Library Branch associated
@@ -21,6 +21,7 @@ fo
 9) Once the user returns a book the number of copies of the book is incremented by one
 
 Administrator Functionality was added which can do the following
+
 When creating the database I added auto increment on the primary key to add a unique key each time so Admin can add items
 Each Option below printed all the data associated with each table 
 
