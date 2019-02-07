@@ -1,6 +1,6 @@
 # LibraryManagementSystem
 
-LibraryManagementSystem created in Java which connects to Mysql and allows the user to add data to the database as well as retrieve data. Command Line was used to allow the user to interact with the database and choose whether they are a borrower, librarian or administrator. I have always been an avid reader which gave me the idea for the project.
+LibraryManagementSystem created in Java which connects to Mysql and allows the user to add data to the database as well as retrieve data. Command Line was used to allow the user to interact with the database and choose whether they are a borrower, librarian or administrator.
 
 Librarian Functionality was added which can do the following
 
