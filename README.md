@@ -1,6 +1,6 @@
 # LibraryManagementSystem
 
-LibraryManagementSystem created in Java which connects to Mysql and allows the user to add data to the database as well as retrieve data. Command Line was used to allow the user to interact with the database and choose whether they are a borrower, librarian or administrator.
+LibraryManagementSystem created in Java which connects to Mysql and allows the user to add data to the database as well as retrieve data. Command Line was used to allow the user to interact with the database and choose whether they are a borrower, librarian or administrator. I have always been an avid reader when I saw this idea thought it would be really cool to implement. I would like to update this project to be able to host it. I am considering using java servlets and maven to achieve this.
 
 Librarian Functionality was added which can do the following
 
@@ -32,6 +32,6 @@ Each Option below printed all the data associated with each table
 5) ADD/UPDATE/DELETE Borrower
 6) Override Due Date From Book Loans
 
-Below is the schema created for the project
+Below is the schema created for the project and Forward Engineered Tables in MySQL Workbench
 
 ![librarymanagement schema](https://user-images.githubusercontent.com/26370037/52392980-2eb89d80-2a72-11e9-9d0d-275dfd63045c.PNG)
