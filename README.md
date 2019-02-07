@@ -12,7 +12,7 @@ Borrower Functionality was added which can do the following
 fo
 1) Borrower enters there card number and if the card number is not in the database I tell the user please try again since incorrect number added
 2) The Borrower has the option of checking out a book or returning a book
-3) The list of Library Branches is printed on th screen and the user chooses which one they are associated with
+3) The list of Library Branches is printed on the screen and the user chooses which one they are associated with
 4) Then the list of Books was printed on the screen based on the Library Branch associated
 5) Made sure only to print books that have at least one copy since there cant be a negative number of copies
 6) If the user checks out a book it is added to a Book Loan which adds a Due Date and DueOut. Local Date Time API was used to add the current date and to add the due date to a week Later
